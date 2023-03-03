@@ -69,3 +69,7 @@ with open('people.txt', 'r', encoding='UTF8') as file:
         print("Sorry,your isikukood is invalid!")
     else:
         print('Congratulations, your isikukood is valid!')
+
+
+
+
